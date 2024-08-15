@@ -1,5 +1,3 @@
-# C++ Estruturada
+# C++ Estruturada - Introdução à Linguagem
 
-Este repositório foi criado para guardar os códigos que desenvolvi enquanto estudava a linguagem C++.
-
-Um dos meus principais materiais de estudo foi o curso disponibilizado no YouTube pelo professor Judson Santiago [aqui](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh).
+Este repositório foi criado com o propósito de guardar os códigos desenvolvidos enquanto eu estudava a linguagem C++. Meu principal material de estudo foi o [curso disponibilizado pelo professor Judson Santiago no YouTube.](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh).
