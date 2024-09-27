@@ -12,6 +12,8 @@
 
 Variables declared out of any function's body are called global variables. Those which are declared inside functions are called local variables. When we write a variable's name, the preference is for using the local one. But if it doesn't exist, the global corresponding is used.
 
+Global variables are automatically initiated to zero. And local variables declared, but not initiated, contain memory garbage. Besides, global variables are dangerous, because they turn code difficult to maintain, so their use must be avoided.
+
 ---
 
 Exercises can be found [here](https://github.com/JudsonSS/ProgComp/blob/master/Labs/Lab05/Lab05.pdf).
