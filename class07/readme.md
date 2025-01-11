@@ -24,3 +24,7 @@ A representação binária de qualquer um dos tipos inteiros pode ser manipulada
 | `&`        |  AND          | `expr1 & expr2`  |
 | `\|`       |  OR           | `expr1 \| expr2` |
 | `^`        |  XOR          | `expr1 ^ expr2`  |
+
+---
+
+Os exercícios podem ser encontrados [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Labs/Lab07/Lab07.pdf). Já o trabalho prático pode ser encontrado [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Trabalhos/TP1.pdf).
