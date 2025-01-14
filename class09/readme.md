@@ -24,4 +24,10 @@ No caso de atribuir um tipo ponto flutuante maior para um menor, ou de atribuir 
 
 ### Conversões em expressões
 
-Alguns tipos, como `char` e `short`, são promovidos (i.e, convertidos para um tipo maior) quando inseridos em uma expressão.
+Alguns tipos, como `char` e `short`, são promovidos (i.e, convertidos para um tipo maior) quando inseridos em uma expressão. Isso ocorre por causa da capacidade de armazenamento dos registradores dos processadores (32 bits), que são o local onde os valores são temporariamente guardados durante as operações aritméticas.
+
+Quando os operandos de uma expressão são do mesmo tipo, eles não são convertidos, mas deve-se tomar cuidado, pois o resultado da operação pode extrapolar os limites do tipo que será usado pela memória temporária.
+
+---
+
+Os exercícios podem ser encontrados [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Labs/Lab09/Lab09.pdf).
