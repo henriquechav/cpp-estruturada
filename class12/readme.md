@@ -17,7 +17,18 @@ struct jogador
 
 Os membros dos registros são declarados como variáveis, e podem ser vetores ou, ainda, outros registros. Fica evidente a natureza flexível dos registros. Após declarado, podemos criar novas variáveis desse tipo: `jogador pele, zico, bebeto;`. É alocado espaço suficiente na memória para armazenar cada um dos membros da variável. Cada membro (ou campo) pode ser acessado usando o operador membro `.`, por exemplo `zico.salario`.
 
-É possível usar registros como parâmetros e retornos de funções e, além disso, um registro pode ser atribuído para outro como uma simples variável.
+É possível usar registros como parâmetros e retornos de funções e, além disso, um registro pode ser atribuído para outro como uma simples variável. Pode-se, inclusive, criar vetores de registros, por exemplo: `jogador equipe[22];`.
+
+Com a condição de criar variáveis junto com a declaração do registro, pode-se omitir o nome do tipo. Exemplo abaixo:
+
+```
+struct 
+{
+    int x;
+    int y;
+}
+ponto;
+```
 
 ---
 
