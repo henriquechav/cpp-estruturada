@@ -39,6 +39,18 @@ for (int i=0, j=4; i <= 4; i++, j--)
     cout << i << " != " << j << endl;
 ```
 
+## Laço para sequências (*range based loop `for`*)
+
+Laço que simplifica a tarefa de percorrer os elementos de um vetor, introduzido no padrão C++11. Exemplo:
+
+```
+int vet[5] = { 3,5,6,7,9 };
+for (int n : vet)
+    cout << n << " ";
+```
+
+No exemplo acima, a variável `n` assume o valor de cada elemento do vetor `vet`.
+
 ---
 
 Os exercícios podem ser encontrados [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Labs/Lab17/Lab17.pdf).
