@@ -54,3 +54,5 @@ No exemplo acima, a variável `n` assume o valor de cada elemento do vetor `vet`
 ---
 
 Os exercícios podem ser encontrados [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Labs/Lab17/Lab17.pdf).
+
+O trabalho pode ser encontrado [aqui](https://github.com/JudsonSS/ProgComp/blob/master/Trabalhos/TP2.pdf).
